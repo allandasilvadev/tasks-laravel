@@ -1,0 +1,11 @@
+body { background-color: #111; }
+
+#painel-usuarios {
+	display: block;
+	border-radius: 0; 
+	background-color: #fff; 
+	margin-top: 12%;
+	padding: 2.1% 1.2% 1.2% 1.2%;
+}
+
+.ci-label { font-weight: lighter; }
